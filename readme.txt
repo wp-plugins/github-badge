@@ -27,6 +27,7 @@ Links: [Author Homepage](http://graphicedit.com/)
 GitHub Badge
 
 == Screenshots ==
+
 1. Place the shortcode.
 2. and see the result.
 
