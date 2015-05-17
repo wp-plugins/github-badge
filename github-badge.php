@@ -3,7 +3,7 @@
 Plugin Name: GitHub Badge
 Plugin URI: http://graphicedit.com/blog/plugin/github-badge/
 Description: This plug-in allows you to create and place a GitHub css3 badge to your webpage on wordpress. 
-Version: 1.0.0
+Version: 1.0.1
 Author: GraphicEdit
 Author URI: http://graphicedit.com/
 

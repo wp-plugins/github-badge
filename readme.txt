@@ -3,9 +3,9 @@
 Contributors: graphicedit
 Donate link: http://graphicedit.com/
 Tags: post, page, posts, pages, short code,  GitHub, Badge
-Requires at least: 3.5
-Tested up to: 3.5
-Stable tag: 1.0.0
+Requires at least: 4.2.2
+Tested up to: 4.2.2
+Stable tag: 1.0.1
  
 This plug-in allows you to create and place a GitHub css3 badge to your webpage on wordpress.
 
